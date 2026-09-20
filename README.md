@@ -15,6 +15,6 @@ python3 -m http.server 8125
 
 ## Live
 
-https://droid-os.vercel.app
+https://decapostos.github.io/droid-os/
 
-This repo is the source of truth. The Vercel project deploys from it.
+This repo is the source of truth, served via GitHub Pages.
