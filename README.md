@@ -15,6 +15,6 @@ python3 -m http.server 8125
 
 ## Live
 
-https://decapostos.github.io/droid-os/
+https://thefullctx.github.io/droid-os/
 
 This repo is the source of truth, served via GitHub Pages.
